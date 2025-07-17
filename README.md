@@ -54,14 +54,14 @@ A professional-quality tool that takes a YouTube podcast link and returns a stru
 
 1\. Install dependencies:
 
-&nbsp;  ```bash
-
-&nbsp;  pip install -r requirements.txt
+```
+ pip install -r requirements.txt
+```
 
 2\. Run the app:
-   ```bash
+```
    streamlit run app/ui.py
-
+```
 3\. Paste a YouTube link and get your summary!
 
 
